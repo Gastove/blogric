@@ -86,7 +86,7 @@ def list_by_status(status='draft'):
                     line = pointer.readline()
 
             metadata = {s.split(':')[0]: s.split(':')[1].strip() for s in lines}
-            statuses_by_name[filename] = metadata.get('status', 'published')
+            statuses_by_name[filename] = metadata.get('Status', 'published')
 
     res = [name for name, val in statuses_by_name.iteritems() if val == status]
 
