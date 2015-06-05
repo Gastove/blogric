@@ -3,8 +3,8 @@
 Hi! I'm `blogric`. I'm a tiny little [Fabric](http://www.fabfile.org/) library
 for blogging with [Pelican](http://blog.getpelican.com/) and
 [Github Pages](https://pages.github.com/). I make a looooot of assumptions,
-because _mostly_ I'm for @gastove to use for his [assorted](blog.gastove.com)
-[blags](food.gastove.com). If you wanna use me, you should probably:
+because _mostly_ I'm for @gastove to use for his [assorted](http://blog.gastove.com/)
+[blags](http://food.gastove.com). If you wanna use me, you should probably:
 
 1. not.
 
