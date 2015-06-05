@@ -13,11 +13,11 @@ But if you're gonna anyways, do like this!
 1. I need to live in your blogs gitrepo; `Fabric` needs to be able to find me as
 your `fabfile`. This means:
 ```bash
-                ## Just name the repo fabric:
-                        git clone git@github.com:Gastove/blogric.git fabfile
+## Just name the repo fabric:
+git clone git@github.com:Gastove/blogric.git fabfile
 
-                                ## OR
-                                        git clone git@github.com:Gastove/blogric.git && ln -s ./blogric ./fabfile
+## OR
+git clone git@github.com:Gastove/blogric.git && ln -s ./blogric ./fabfile
 ```
 2. (This says 1 again because Github is a Jerk about Numbers. So I'm going to
 sulk, and you can meet me at the next enumeration.)
